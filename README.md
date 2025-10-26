@@ -1,1 +1,1 @@
-# Survey-Sampling_Klasifikasi-Prestasi-Akademik-Berdasarkan-Tipe-Kepribadian
+# Klasifikasi Prestasi Akademik Berdasarkan Tipe Kepribadian MBTI
